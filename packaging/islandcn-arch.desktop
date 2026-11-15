@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=islandcn
+GenericName=Dynamic Island
+Comment=A Dynamic Island-style status pill for your desktop
+Exec=islandcn-arch
+Icon=islandcn-arch
+Categories=Utility;
+StartupWMClass=islandcn-arch
+Terminal=false
+Actions=Settings;
+
+[Desktop Action Settings]
+Name=Settings
+Exec=islandcn-arch settings
